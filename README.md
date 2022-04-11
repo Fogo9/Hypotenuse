@@ -1,18 +1,12 @@
 # **Area of Triangle**
 
-<br />
-
 # Information
 
 * **You can find the area of ​​the triangle by determining the side lengths.**
 
-<br />
-
 # Technologies Used
 
 * **JAVA**
-
-<br />
 
 # Contents
 
