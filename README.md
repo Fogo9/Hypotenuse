@@ -26,7 +26,7 @@
 
 ```Java
 
-    public class hypotenuse {
+public class hypotenuse {
 
     public static void main(String[] args) {
 
