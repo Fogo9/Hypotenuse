@@ -1,11 +1,13 @@
 import java.util.Scanner;
 
 public class Hypotenuse {
+    
     public static void main(String[] args) {
 
         int a, b, c, u;
 
         double area;
+        
 
         Scanner scan = new Scanner(System.in);
 
@@ -20,6 +22,7 @@ public class Hypotenuse {
         System.out.print("Side 3 : ");
 
         c = scan.nextInt();
+        
 
         u = (a + b + c) / 2;
 
