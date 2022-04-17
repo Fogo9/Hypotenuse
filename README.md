@@ -26,41 +26,41 @@
 
 ```Java
 
-public class hypotenuse {
+    public class hypotenuse {
 
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 
-        int a, b, c, u;
+            int a, b, c, u;
 
-        double area;
+            double area;
 
-        Scanner scan = new Scanner(System.in);
+            Scanner scan = new Scanner(System.in);
 
 ```
 
 ```Java
 
-        System.out.print("Side 1 : ");
+            System.out.print("Side 1 : ");
 
-        a = scan.nextInt();
+            a = scan.nextInt();
 
-        System.out.print("Side 2 : ");
+            System.out.print("Side 2 : ");
 
-        b = scan.nextInt();
+            b = scan.nextInt();
 
-        System.out.print("Side 3 : ");
+            System.out.print("Side 3 : ");
 
-        c = scan.nextInt();
-
+            c = scan.nextInt();
 
 ```
 ```Java
 
-        u = (a + b + c) / 2;
+            u = (a + b + c) / 2;
 
-        area = Math.sqrt(u * (u - a) * (u - b) * (u - c));
+            area = Math.sqrt(u * (u - a) * (u - b) * (u - c));
 
-        System.out.print("Area of Triangle : " + area);
+            System.out.print("Area of Triangle : " + area);
+            
 ```
 
 ```bash
