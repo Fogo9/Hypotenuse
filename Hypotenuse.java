@@ -30,6 +30,5 @@ public class Hypotenuse {
 
         System.out.print("Area of Triangle : " + area);
 
-
     }
 }
