@@ -22,8 +22,6 @@
 
 * The area formula was used to define the area.
 
-<br />
-
 ## CODES
 
 ```Java
