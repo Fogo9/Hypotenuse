@@ -1,14 +1,14 @@
 # **Area of Triangle**
 
-# Information
+## INFORMATION
 
-* **You can find the area of ​​the triangle by determining the side lengths.**
+* **You can find the area of the triangle by determining the side lengths.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * Hypotenuse class was defined.
 
@@ -24,7 +24,7 @@
 
 <br />
 
-# Codes
+## CODES
 
 ```Java
 
@@ -75,13 +75,13 @@
 ```
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/Hypotenuse.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
